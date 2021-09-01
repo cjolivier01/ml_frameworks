@@ -1,0 +1,3 @@
+[submodule "pytorch"]
+	path = pytorch
+	url = ssh://git@github.com/cjolivier01/pytorch
