@@ -1,3 +1,6 @@
 [submodule "pytorch"]
 	path = pytorch
 	url = ssh://git@github.com/cjolivier01/pytorch
+[submodule "pt_autograph"]
+	path = pt_autograph
+	url = ssh://git@github.com/cjolivier01/pt_autograph
